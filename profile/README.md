@@ -11,5 +11,40 @@ The following are the links that we will refer in the training
 | Download Putty | https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe | |
 
 
+Linux COmmands
+```
+ls / -l / -A 
 
+pwd 
+cd 
+touch 
+mkdir 
+rm / -r 
+cp / -r 
+mv 
+cat 
+head /  tail 
+grep 
+awk 
+vi / vim 
+sed / s| | |gi   /  i / a / c /d 
+curl -O / -o / -L 
+tar -x 
+unzip 
+Pipe
+
+ps -e -f 
+kill 
+sudo 
+sudo useradd 
+sudo dnf / list / install - repos ( /etc/yum.repos.d/)
+systemctl / start / stop / restart / enable 
+chown 
+chgrp
+chmod
+disk information - lsblk / df 
+network information -
+    ip a
+    ss -4lntp
+```
 

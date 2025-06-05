@@ -10,6 +10,8 @@ The following are the links that we will refer in the training
 | Download Putty | https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe | |
 
 
+Repo Ref: https://github.com/orgs/roboshop-devops-project-v3/repositories
+
 Linux COmmands
 ```
 ls / -l / -A 
